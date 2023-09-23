@@ -27,7 +27,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented Wordle:
 
-<img src='https://cdn.loom.com/sessions/thumbnails/339140cfa1b247e9bc7b8e0eb5586d42-with-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/339140cfa1b247e9bc7b8e0eb5586d42">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/339140cfa1b247e9bc7b8e0eb5586d42-with-play.gif">
+    </a>
+</div>
 
 ## Notes
 
