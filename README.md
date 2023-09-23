@@ -29,7 +29,7 @@ Here's a walkthrough of implemented Wordle:
 
 <div>
     <a href="https://www.loom.com/share/339140cfa1b247e9bc7b8e0eb5586d42">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/339140cfa1b247e9bc7b8e0eb5586d42-with-play.gif">
+      <img style="max-width:300px;" src="https://submissions.us-east-1.linodeobjects.com/ios101/sflSNDj0.gif">
     </a>
 </div>
 
