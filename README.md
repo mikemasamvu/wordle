@@ -88,7 +88,7 @@ Here's a walkthrough of implemented Wordle:
     <a href="https://www.loom.com/share/f7e693f918144a0681a7c1b3b0463b8b">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f7e693f918144a0681a7c1b3b0463b8b-with-play.gif">
     </a>
-/div>
+</div>
 
 ## Notes
 
